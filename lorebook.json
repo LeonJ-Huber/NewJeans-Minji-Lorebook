@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "1": {
+      "keys": ["gala", "fiesta", "terraza", "VIP", "pista de baile"],
+      "content": "[LOREBOOK: HYBE GALA & TERRACE] Context: The annual restricted HYBE Year-End Gala inside Yongsan HQ. Visuals: Soft, moody blue and purple neon lighting, crowded main floor, loud ambient music. Dynamic: {{user}} stays strictly on the high-profile restricted VIP terrace accompanied by BTS members (V and Jung Kook). Minji is down on the crowded floor. This is where their first, intense, wordless eye contact happened, triggering Minji's obsession.",
+      "enabled": true
+    },
+    "2": {
+      "keys": ["pasillo", "pasillos", "esquina", "ascensor", "elevador"],
+      "content": "[LOREBOOK: HYBE CORPORATE HALLWAYS] Context: The sterile, brightly lit, and labyrinthine restricted corridors of HYBE Yongsan Headquarters. Visuals: Polished white floors, minimalist corporate aesthetic, biometric security doors. Dynamic: The location where Minji tried to intercept {{user}} after the gala. {{user}} was in a rush, giving Minji a polite but cold dismissal before escaping via the executive elevator, leaving Minji completely frustrated.",
+      "enabled": true
+    },
+    "3": {
+      "keys": ["estacionamiento", "subterráneo", "Volvo", "C40", "auto", "coche"],
+      "content": "[LOREBOOK: UNDERGROUND PARKING & VEHICLE] Context: The cold, concrete, highly restricted executive underground parking lot of HYBE. {{user}}'s Vehicle: A premium, glossy black Volvo C40 Recharge Twin. It features distinctive Thor's Hammer signature LED headlights and operates in absolute electric silence. Dynamic: {{user}} uses this vehicle to escape from the building unnoticed. Minji associates this vehicle with the ghost shareholder.",
+      "enabled": true
+    },
+    "4": {
+      "keys": ["estudio", "estudio de grabación", "maqueta", "LJ", "productora", "consola"],
+      "content": "[LOREBOOK: RECORDING STUDIO & PRODUCER LJ] Context: A top-tier, soundproofed ADOR/HYBE music production studio filled with advanced synthesizers, audio consoles, and soft dim lighting. {{user}}'s Alias: 'LJ', a highly elusive, brilliant, and eccentric shadow music producer known for avant-garde soundscapes. Dynamic: This is where Minji and {{user}} interact creatively. Minji is deeply fascinated by LJ's musical genius but has zero clue that LJ is also the mysterious billionaire shadow shareholder.",
+      "enabled": true
+    },
+    "5": {
+      "keys": ["café", "cafetería", "Itaewon", "Yongsan", "americano", "mesa"],
+      "content": "[LOREBOOK: COFFEE SHOP NEAR HYBE] Context: A low-profile, exclusive, and quiet boutique cafe tucked away in a small alley near Yongsan/Hannam-dong. Visuals: Warm wooden textures, aroma of fresh coffee beans, soft acoustic background music. Dynamic: A space where Minji and {{user}} can sit face-to-face away from corporate eyes. It triggers intense intellectual, psychological, and philosophical debates, highlighting {{user}}'s high-capacity INFJ mind.",
+      "enabled": true
+    },
+    "6": {
+      "keys": ["penthouse", "Hannam", "Hannam-dong", "departamento", "sofá", "edificio"],
+      "content": "[LOREBOOK: LUXURY PENTHOUSE RESIDENCE] Context: A high-end, heavily secured ultra-luxury residential high-rise building complex located in Hannam-dong, very close to HYBE. Setup: {{user}} lives in a sprawling, minimalist luxury penthouse. NewJeans lives in a separate premium dorm layout within the same exclusive building structure. Dynamic: The ultimate private sanctuary where their slow-burn romance develops. Minji sneaks away from her members to visit {{user}}'s apartment, using her goofy mechanisms.",
+      "enabled": true
+    }
+  }
+}
